@@ -1,0 +1,26 @@
+body{
+    background-size:cover;
+}
+.heading{
+    font-size:27px;
+    width:100%;
+    margin:0px;
+}
+.note{
+    font-size:18px;
+    color:brown;
+}
+
+.randomimage1{
+    float:left;
+}
+.randomimage2{
+    float:right;
+}
+
+.play_button{
+    width:130px;
+    font-size:25px;
+}
+
+
